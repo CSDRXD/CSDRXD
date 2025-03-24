@@ -1,17 +1,17 @@
-# 👋 ¡Hola! Soy Carlos Diaz
-🎓 Estudiante de desarrollo de software | Apasionado por los sistemas embebidos y la ciberseguridad.  
-💡 Explorando el mundo de Linux, programación en Python y hardware embebido.  
-🚀 Actualmente aprendiendo sobre microcontroladores y seguridad informática.  
+# 👋 Hi! I'm Carlos Diaz  
+🎓 Software development student | Passionate about embedded systems and cybersecurity.  
+💡 Exploring the world of Linux, Python programming, and embedded hardware.  
+🚀 Currently learning about microcontrollers and cybersecurity.  
 
-### 🔧 Tecnologías y herramientas:
+### 🔧 Technologies & Tools:
 - 💻 Python, C, Git, Linux  
 - 📡 Micro:bit, Arduino, Raspberry Pi  
-- 🔒 Seguridad en software y redes  
+- 🔒 Software and network security  
 
-### 🚀 Proyectos Destacados
-- 🔹 [Desarrollo de un Sistema Robotico Automatizado para la Gestion de Cultivos](https://github.com/CSDRXD/GarlyBot)
+### 🚀 Featured Projects:
+- 🔹 [Development of an Automated Robotic System for Crop Management](https://github.com/CSDRXD/GarlyBot)  
 
+📫 **How to contact me:** [LinkedIn](https://www.linkedin.com/in/caribay09/) | [Email](mailto:carsanrindia@gmail.com)
 
-📫 **Cómo contactarme:** [LinkedIn](https://www.linkedin.com/in/caribay09/) | [Correo](mailto:carsanrindia@gmail.com)
 
 
