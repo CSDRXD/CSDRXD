@@ -35,18 +35,6 @@
 
 ###
 
-<img align="right" height="108" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hoenN2czNmdjU4dGdmMm5nbGY3dnNwc3Q4MGdpcTNuMG9udmY5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <br clear="both">
 
 <div>
